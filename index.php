@@ -9,7 +9,7 @@
 	$mail->SMTPSecure='tls';
 
 	$mail->Username= 'davidsarka242@gmail.com';
-	$mail->Password= 'Davido2020';
+	$mail->Password= 'my password';
 
 	$mail->setFrom('davidsarka242@gmail.com','Davido Mailer');
 	$mail->addAddress('davidsaka242@gmail.com');
